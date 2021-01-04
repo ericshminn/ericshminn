@@ -6,7 +6,9 @@ I'm a Clinical Data Coordinator by career, and a researcher by education.
 
 I'm always curious to understand the reasoning behind why things happen.
 
-For a long time, I was fascinated by the field of Data Science and AI and I recently studied them through self-learning and University of Toronto - Continuing Studies programs.
+For a long time, I was fascinated by the field of Data Science and AI and I recently studied them through self-learning and University of Toronto - Continuing Studies Data Science and Artificial Intelligence certificate programs.
+
+With my background in Kinesiology & Biomechanics, I am also a fitness enthusiast. 
 
 Please refer to my [portfolio] (https://ericshminn.github.io/) to view some of my projects.
 
