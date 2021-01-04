@@ -1,4 +1,5 @@
 ### Hi, I'm Eric 👋
+[![Linkedin: andlukyane](https://img.shields.io/badge/-Andrey%20Lukyanenko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andlukyane/)](https://www.linkedin.com/in/andlukyane/)
 
 <!--
 **ericshminn/ericshminn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
