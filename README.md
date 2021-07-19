@@ -2,11 +2,11 @@
 [![Linkedin: sunghoonminn920426](https://img.shields.io/badge/-Eric%20Minn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sunghoonminn920426/)](https://www.linkedin.com/in/sunghoonminn920426/)
 ![Profile views](https://gpvc.arturio.dev/ericshminn)
 
-I'm a Clinical Data Coordinator by career, and a researcher by education.
+I'm a Researcher by career and education.
 
 I'm always curious to understand the reasoning behind why things happen.
 
-For a long time, I was fascinated by the field of Data Science and AI and I recently studied them through self-learning and University of Toronto - Continuing Studies Data Science and Artificial Intelligence certificate programs.
+I am fascinated by the capabilities of Data Science & AI, and the potential technological advancements and transformations we can achieve through it.
 
 With my background in Kinesiology & Biomechanics, I am also a fitness enthusiast. 
 
